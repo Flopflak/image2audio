@@ -13,9 +13,11 @@ This project aims to encode image data into an audio file and subsequently decod
    
 **Note:** This project is a simple implementation and may not handle all edge cases. Further modifications may be needed based on specific requirements or constraints.
 
-## Example
+## Example [^1]
 ### Original image
 <img src=https://github.com/Flopflak/image2audio/assets/77279409/1d2ddc86-f6ac-4875-a5b0-ab153968150a style="width: 500px;">
 
 ### Reconstructed image
 <img src=https://github.com/Flopflak/image2audio/assets/77279409/aedeb085-9e28-4ff9-b675-1eb71237be01 style="width: 500px;">
+
+[^1]: The reconstructed file is for some reason 4 times bigger than the original one. I have no idea why.
